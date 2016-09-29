@@ -1,0 +1,5 @@
+http://www.tutorialspoint.com/webservices/
+http://www.restapitutorial.com/resources.html
+http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
+http://stackoverflow.com/questions/2534077/best-practice-for-creating-web-services
