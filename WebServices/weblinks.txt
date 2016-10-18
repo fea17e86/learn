@@ -1,5 +1,8 @@
-http://www.tutorialspoint.com/webservices/
+https://www.tutorialspoint.com/restful/
 http://www.restapitutorial.com/resources.html
 http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
 http://stackoverflow.com/questions/2534077/best-practice-for-creating-web-services
+http://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/
+http://www.torsten-horn.de/techdocs/jee-rest.htm
+http://www.vogella.com/tutorials/REST/article.html
